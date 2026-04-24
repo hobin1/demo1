@@ -22,4 +22,7 @@ public class Application {
         return "Application is running";
     }
 
+    public String getB() {
+        return "B";
+    }
 }
