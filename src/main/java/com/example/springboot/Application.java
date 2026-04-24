@@ -24,4 +24,7 @@ public class Application {
     public String getA() {
         return "A";
     }
+    public String getB() {
+        return "B";
+    }
 }
